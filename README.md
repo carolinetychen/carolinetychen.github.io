@@ -1,2 +1,2 @@
-# carolinetychen.github.io
-The Home Page of Caroline Chen
+# Homepage of Caroline
+The homepage of Caroline Chen
